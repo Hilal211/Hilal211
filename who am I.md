@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Hilal Masri
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning full stack web developer
+- 📫 Email:hilal1922001@gmail.com
